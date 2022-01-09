@@ -3,8 +3,8 @@ Recording my learning steps. Inside this repository are codes from my self-learn
 
 
 2022/1/9
-Uploaded: "concept_of_return_value.py".
-Rename this repo to Python_self_learning, for the log of my learning progress. As title, In this file I found the different and concept of return value, change some of my view.
+Uploaded: "concept_of_return_value.py", "distance_and_circle_area.py".
+Rename this repo to Python_self_learning, for the log of my learning progress. As title, In this file I found the different and concept of return value, change some of my view. Next part I got a skill of coding nestly, which is coded in file "distance_and circle_area.py".
 
 2022/1/8
 Uploaded: "epoch_to_now.py", "Koch_curve.py", "Koch_snowflake.py".
