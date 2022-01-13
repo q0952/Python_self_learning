@@ -1,6 +1,10 @@
 # Milestones_of_Python_self_learning
 Recording my learning steps. Inside this repository are codes from my self-learning work. For documenting and sharing if someone else need it as well.
 
+2022/1/13
+Uploaded: "count_by_find.py".
+Mastering the flow-control order as well.
+
 2022/1/12
 Uploaded: "gcd_check.py", "eval_loop.py", "newton_method.py", "while_flow_control.py".
 Get myself used to the flow control order such like "while", "for", very clearly understood.
