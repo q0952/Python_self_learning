@@ -1,6 +1,10 @@
 # Milestones_of_Python_self_learning
 Recording my learning steps. Inside this repository are codes from my self-learning work. For documenting and sharing if someone else need it as well.
 
+2022/1/18
+Uploaded: "rotate.py"
+Skilled something about string method, it's quite fun.
+
 2022/1/13
 Uploaded: "count_by_find.py".
 Mastering the flow-control order as well.
